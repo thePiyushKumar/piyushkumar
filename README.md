@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushkumar&label=Profile%20views&color=0e75b6&style=flat" alt="piyushkumar" /> </p>
 
-- 🌱 I’m currently learning **Hadoop BigData Devops**
+- 🌱 I’m currently Working on my **Data Analyst Skills**
 
 - 📫 How to reach me **piyushkumar95291@gmail.com**
 
